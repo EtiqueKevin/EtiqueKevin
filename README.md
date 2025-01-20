@@ -1,16 +1,44 @@
-## Hi there 👋
+# ETIQUE Kévin 
 
-<!--
-**EtiqueKevin/EtiqueKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biographie
+Étudiant en informatique à l'IUT Nancy Charlemagne depuis 2022. Je suis un développeur sérieux et entreprenant qui n'a pas peur des défis.
 
-Here are some ideas to get you started:
+## 📚 Technologies maîtrisées 
+- flutter
+- VueJS
+- NodeJS
+- PHP
+- JavaScript
+- Java
+- Python
+- C
+- SQL
+- NoSQL
+- plSQL
+- Linux
+- Windows
+- shell
+- git
+- html
+- css3
+- scss
+- tests unitaires
+- architechture d'applications web
+- xsl
+- xml
+- json
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 En apprentissage
+- Angular
+- vite
+- C#
+- assembleur
+
+## 😄 Mes pronoms: il/lui
+
+
+## 🔭 Choses sur lesquelles je travaille
+- projets d'études (apprentissage)
+- projets d'utilité personnels
+- projets d'utilité universelles
+

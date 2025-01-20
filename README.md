@@ -25,7 +25,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![Tests unitaires](https://img.shields.io/badge/Tests_unitaires-6DB33F?logo=jest&logoColor=white)
-![Architecture d'applications web](https://img.shields.io/badge/Architecture_d'applications_web-0078D4?logo=microsoft&logoColor=white)
 ![XSL](https://img.shields.io/badge/XSL-FF6600?logo=w3c&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)

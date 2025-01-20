@@ -44,3 +44,9 @@
 - projets d'utilité universelles
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=SAE-WebDirectory)](https://github.com/EtiqueKevin/SAE-WebDirectory)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=lethalModTurret)](https://github.com/EtiqueKevin/lethalModTurret)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1)](https://github.com/EtiqueKevin/NRV-Atelier-web-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=Stan_horraire_flutter)](https://github.com/EtiqueKevin/Stan_horraire_flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=projet-tutore)](https://github.com/EtiqueKevin/projet-tutore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=toubeelib)](https://github.com/EtiqueKevin/toubeelib)

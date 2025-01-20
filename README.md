@@ -42,3 +42,4 @@
 - projets d'utilité personnels
 - projets d'utilité universelles
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtiqueKevin)](https://github.com/anuraghazra/github-readme-stats)

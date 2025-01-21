@@ -1,7 +1,7 @@
 # ETIQUE Kévin 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtiqueKevin&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtiqueKevin&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 ## Biographie
 Étudiant en informatique à l'IUT Nancy Charlemagne depuis 2022. Je suis un développeur sérieux et entreprenant qui n'a pas peur des défis.
@@ -47,7 +47,7 @@
 - projets d'utilité universelles
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=SAE-WebDirectory)](https://github.com/EtiqueKevin/SAE-WebDirectory)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=SAE-WebDirectorytheme=tokyonight)](https://github.com/EtiqueKevin/SAE-WebDirectory)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=lethalModTurret)](https://github.com/EtiqueKevin/lethalModTurret)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=NRV-Atelier-web-1)](https://github.com/EtiqueKevin/NRV-Atelier-web-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EtiqueKevin&repo=Stan_horraire_flutter)](https://github.com/EtiqueKevin/Stan_horraire_flutter)

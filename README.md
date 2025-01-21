@@ -1,6 +1,8 @@
 # ETIQUE Kévin 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtiqueKevin&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 ## Biographie
 Étudiant en informatique à l'IUT Nancy Charlemagne depuis 2022. Je suis un développeur sérieux et entreprenant qui n'a pas peur des défis.
 
